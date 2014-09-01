@@ -1,0 +1,27 @@
+
+25 issues met kosten = 1
+=========================
+4 issues - kan door ABB/IT al of niet met begeleiding de eerste keer
+10 issues - DLL gebaseerd (source code)
+7 issues - niet oplosbaar GVO (ook niet met broncode)
+2 issues niet voorzien in DOMA/DBS
+1 extra functies (trefwoorden)
+1 issues preproductie
+
+
+16 issues zonder kosten = 0
+========================
+wordt nagekeken
+2 issues - kan door ABB/IT al of niet met begeleiding de eerste keer
+8 issues te verduidelijken
+2 issues preproductie
+4 issues opgelost
+
+
+
+=> 0. gelijktrekken pre en prod
+=> 1. begeleiding ABB/IT
+=> 2. source code (dll)
+=> 3. parametriseerbaar
+=> 4. enkel door Arco oplosbare issues
+
