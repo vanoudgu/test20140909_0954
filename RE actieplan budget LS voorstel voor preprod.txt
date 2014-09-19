@@ -1,0 +1,51 @@
+Van:	Bart Van Gysel <b.v.gysel@arco.be>
+Verzonden:	donderdag 11 september 2014 18:05
+Aan:	Cloos, Peter
+CC:	Volders, Veronique
+Onderwerp:	RE: actieplan: budget L&S: voorstel voor preprod
+
+Peter
+ 
+Stap 1: De gestelde punten in productie zetten samen met 1 of meerdere personen van ABB: 0.75 tot 1 
+dag afh van de voorkennis van de ABB mensen.
+Stap 2: ABB
+Stap 3: synchro prod/preprod: hierover zit ik morgen samen met Walter en Dominique om dit concreet 
+uit te werken.  Ik kom hieromtrent morgen terug ivm de volgens ons te volgen werkwijze die door jullie 
+gevalideerd kan worden.
+ 
+Groeten
+Bart
+ 
+
+________________________________
+
+From: Cloos, Peter [mailto:peter.cloos@bz.vlaanderen.be]
+Sent: Tue 9/9/2014 15:16
+To: Bart Van Gysel
+Cc: Volders, Veronique
+Subject: actieplan: budget L&S: voorstel voor preprod
+
+
+
+Bart,
+
+Voorstel voor oplossing issues via bijstand is in beraad.
+
+Graag dgl. voorstel voor het gelijktrekken van PRE en PROD.
+-> stap 1: implementeren reeds op PRE opgeloste issues: 323; 312; 268; 
+-> 262; 321 op PROD stap 2: controle/OK functionele test stap 3: na OK 
+-> -> syncroniseren PROD -> PRE
+
+Werkwijze:
+Ook dit proces hier ter plaatse &  samen met ABBteam.
+
+Verwachte output:
+- PRE en PROD gelijk, behalve gedocumenteerde verschillen
+- documentatie, inz. hoe bij wijzigingen terug syncen
+
+Bezorgt ge een voorstel (in dagen)?
+
+Groeten,
+Peter
+
+

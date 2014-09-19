@@ -1,0 +1,9 @@
+<root>
+<app>
+name="ABB_Loket"
+map="\DocRoom\"
+home="DefaultRouting.aspx"
+http=""
+https="mijn-binnenland.vlaanderen.be"
+</app>
+</root>
